@@ -1,0 +1,11 @@
+lab1.c:3:6:ex_1	8	static
+lab1.c:14:6:ex_2	8	static
+lab1.c:31:6:display7SEG	32	static
+lab1.c:39:6:ex_4	8	static
+lab1.c:48:6:ex_5	8	static
+lab1.c:110:6:test_LED	16	static
+lab1.c:115:6:ex_6	16	static
+lab1.c:122:6:clearAllClock	8	static
+lab1.c:126:6:setNumberOnClock	16	static
+lab1.c:130:6:clearNumberOnClock	16	static
+lab1.c:134:6:ex_10	24	static

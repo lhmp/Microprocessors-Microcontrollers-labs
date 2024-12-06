@@ -1,0 +1,7 @@
+fsm_automatic.c:25:6:fsm_clock_counter	8	static
+fsm_automatic.c:42:6:fsm_auto_traffic	8	static
+fsm_automatic.c:86:6:fsm_auto_traffic_1	8	static
+fsm_automatic.c:128:6:blink_red	8	static
+fsm_automatic.c:141:6:blink_yellow	8	static
+fsm_automatic.c:154:6:blink_green	8	static
+fsm_automatic.c:167:6:fsm_traffic	8	static
